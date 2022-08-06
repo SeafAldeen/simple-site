@@ -5,6 +5,8 @@
   padding-right: 15px ;
   margin-left: auto ;
   margin-bottom: auto;
+  display : flex ;
+  justify-content : center ;
 }
 
 @media (min-width:768px) {
